@@ -1,0 +1,269 @@
+SortOrder	CommonName	FormalName	Type	SubType	Sovereignty	Capital	2LetterCode	3LetterCode	NumberCode
+1	Afghanistan	Islamic State of Afghanistan	Independent State			Kabul	AF	AFG	4
+2	Albania	Republic of Albania	Independent State			Tirana	AL	ALB	8
+3	Algeria	People's Democratic Republic of Algeria	Independent State			Algiers	DZ	DZA	12
+4	Andorra	Principality of Andorra	Independent State			Andorra la Vella	AD	AND	20
+5	Angola	Republic of Angola	Independent State			Luanda	AO	AGO	24
+6	Antigua and Barbuda		Independent State			Saint John's	AG	ATG	28
+7	Argentina	Argentine Republic	Independent State			Buenos Aires	AR	ARG	32
+8	Armenia	Republic of Armenia	Independent State			Yerevan	AM	ARM	51
+9	Australia	Commonwealth of Australia	Independent State			Canberra	AU	AUS	36
+10	Austria	Republic of Austria	Independent State			Vienna	AT	AUT	40
+11	Azerbaijan	Republic of Azerbaijan	Independent State			Baku	AZ	AZE	31
+12	Bahamas, The	Commonwealth of The Bahamas	Independent State			Nassau	BS	BHS	44
+13	Bahrain	Kingdom of Bahrain	Independent State			Manama	BH	BHR	48
+14	Bangladesh	People's Republic of Bangladesh	Independent State			Dhaka	BD	BGD	50
+15	Barbados		Independent State			Bridgetown	BB	BRB	52
+16	Belarus	Republic of Belarus	Independent State			Minsk	BY	BLR	112
+17	Belgium	Kingdom of Belgium	Independent State			Brussels	BE	BEL	56
+18	Belize		Independent State			Belmopan	BZ	BLZ	84
+19	Benin	Republic of Benin	Independent State			Porto-Novo	BJ	BEN	204
+20	Bhutan	Kingdom of Bhutan	Independent State			Thimphu	BT	BTN	64
+21	Bolivia	Republic of Bolivia	Independent State			La Paz (administrative/legislative) and Sucre (judical)	BO	BOL	68
+22	Bosnia and Herzegovina		Independent State			Sarajevo	BA	BIH	70
+23	Botswana	Republic of Botswana	Independent State			Gaborone	BW	BWA	72
+24	Brazil	Federative Republic of Brazil	Independent State			Brasilia	BR	BRA	76
+25	Brunei	Negara Brunei Darussalam	Independent State			Bandar Seri Begawan	BN	BRN	96
+26	Bulgaria	Republic of Bulgaria	Independent State			Sofia	BG	BGR	100
+27	Burkina Faso		Independent State			Ouagadougou	BF	BFA	854
+28	Burundi	Republic of Burundi	Independent State			Bujumbura	BI	BDI	108
+29	Cambodia	Kingdom of Cambodia	Independent State			Phnom Penh	KH	KHM	116
+30	Cameroon	Republic of Cameroon	Independent State			Yaounde	CM	CMR	120
+31	Canada		Independent State			Ottawa	CA	CAN	124
+32	Cape Verde	Republic of Cape Verde	Independent State			Praia	CV	CPV	132
+33	Central African Republic		Independent State			Bangui	CF	CAF	140
+34	Chad	Republic of Chad	Independent State			N'Djamena	TD	TCD	148
+35	Chile	Republic of Chile	Independent State			Santiago (administrative/judical) and Valparaiso (legislative)	CL	CHL	152
+36	China, People's Republic of	People's Republic of China	Independent State			Beijing	CN	CHN	156
+37	Colombia	Republic of Colombia	Independent State			Bogota	CO	COL	170
+38	Comoros	Union of Comoros	Independent State			Moroni	KM	COM	174
+39	Congo, (Congo Kinshasa)	Democratic Republic of the Congo	Independent State			Kinshasa	CD	COD	180
+40	Congo, (Congo Brazzaville)	Republic of the Congo	Independent State			Brazzaville	CG	COG	178
+41	Costa Rica	Republic of Costa Rica	Independent State			San Jose	CR	CRI	188
+42	Cote d'Ivoire (Ivory Coast)	Republic of Cote d'Ivoire	Independent State			Yamoussoukro	CI	CIV	384
+43	Croatia	Republic of Croatia	Independent State			Zagreb	HR	HRV	191
+44	Cuba	Republic of Cuba	Independent State			Havana	CU	CUB	192
+45	Cyprus	Republic of Cyprus	Independent State			Nicosia	CY	CYP	196
+46	Czech Republic		Independent State			Prague	CZ	CZE	203
+47	Denmark	Kingdom of Denmark	Independent State			Copenhagen	DK	DNK	208
+48	Djibouti	Republic of Djibouti	Independent State			Djibouti	DJ	DJI	262
+49	Dominica	Commonwealth of Dominica	Independent State			Roseau	DM	DMA	212
+50	Dominican Republic		Independent State			Santo Domingo	DO	DOM	214
+51	Ecuador	Republic of Ecuador	Independent State			Quito	EC	ECU	218
+52	Egypt	Arab Republic of Egypt	Independent State			Cairo	EG	EGY	818
+53	El Salvador	Republic of El Salvador	Independent State			San Salvador	SV	SLV	222
+54	Equatorial Guinea	Republic of Equatorial Guinea	Independent State			Malabo	GQ	GNQ	226
+55	Eritrea	State of Eritrea	Independent State			Asmara	ER	ERI	232
+56	Estonia	Republic of Estonia	Independent State			Tallinn	EE	EST	233
+57	Ethiopia	Federal Democratic Republic of Ethiopia	Independent State			Addis Ababa	ET	ETH	231
+58	Fiji	Republic of the Fiji Islands	Independent State			Suva	FJ	FJI	242
+59	Finland	Republic of Finland	Independent State			Helsinki	FI	FIN	246
+60	France	French Republic	Independent State			Paris	FR	FRA	250
+61	Gabon	Gabonese Republic	Independent State			Libreville	GA	GAB	266
+62	Gambia, The	Republic of The Gambia	Independent State			Banjul	GM	GMB	270
+63	Georgia	Republic of Georgia	Independent State			Tbilisi	GE	GEO	268
+64	Germany	Federal Republic of Germany	Independent State			Berlin	DE	DEU	276
+65	Ghana	Republic of Ghana	Independent State			Accra	GH	GHA	288
+66	Greece	Hellenic Republic	Independent State			Athens	GR	GRC	300
+67	Grenada		Independent State			Saint George's	GD	GRD	308
+68	Guatemala	Republic of Guatemala	Independent State			Guatemala	GT	GTM	320
+69	Guinea	Republic of Guinea	Independent State			Conakry	GN	GIN	324
+70	Guinea-Bissau	Republic of Guinea-Bissau	Independent State			Bissau	GW	GNB	624
+71	Guyana	Co-operative Republic of Guyana	Independent State			Georgetown	GY	GUY	328
+72	Haiti	Republic of Haiti	Independent State			Port-au-Prince	HT	HTI	332
+73	Honduras	Republic of Honduras	Independent State			Tegucigalpa	HN	HND	340
+74	Hungary	Republic of Hungary	Independent State			Budapest	HU	HUN	348
+75	Iceland	Republic of Iceland	Independent State			Reykjavik	IS	ISL	352
+76	India	Republic of India	Independent State			New Delhi	IN	IND	356
+77	Indonesia	Republic of Indonesia	Independent State			Jakarta	ID	IDN	360
+78	Iran	Islamic Republic of Iran	Independent State			Tehran	IR	IRN	364
+79	Iraq	Republic of Iraq	Independent State			Baghdad	IQ	IRQ	368
+80	Ireland		Independent State			Dublin	IE	IRL	372
+81	Israel	State of Israel	Independent State			Jerusalem	IL	ISR	376
+82	Italy	Italian Republic	Independent State			Rome	IT	ITA	380
+83	Jamaica		Independent State			Kingston	JM	JAM	388
+84	Japan		Independent State			Tokyo	JP	JPN	392
+85	Jordan	Hashemite Kingdom of Jordan	Independent State			Amman	JO	JOR	400
+86	Kazakhstan	Republic of Kazakhstan	Independent State			Astana	KZ	KAZ	398
+87	Kenya	Republic of Kenya	Independent State			Nairobi	KE	KEN	404
+88	Kiribati	Republic of Kiribati	Independent State			Tarawa	KI	KIR	296
+89	Korea, North	Democratic People's Republic of Korea	Independent State			Pyongyang	KP	PRK	408
+90	Korea, South	Republic of Korea	Independent State			Seoul	KR	KOR	410
+91	Kuwait	State of Kuwait	Independent State			Kuwait	KW	KWT	414
+92	Kyrgyzstan	Kyrgyz Republic	Independent State			Bishkek	KG	KGZ	417
+93	Laos	Lao People's Democratic Republic	Independent State			Vientiane	LA	LAO	418
+94	Latvia	Republic of Latvia	Independent State			Riga	LV	LVA	428
+95	Lebanon	Lebanese Republic	Independent State			Beirut	LB	LBN	422
+96	Lesotho	Kingdom of Lesotho	Independent State			Maseru	LS	LSO	426
+97	Liberia	Republic of Liberia	Independent State			Monrovia	LR	LBR	430
+98	Libya	Great Socialist People's Libyan Arab Jamahiriya	Independent State			Tripoli	LY	LBY	434
+99	Liechtenstein	Principality of Liechtenstein	Independent State			Vaduz	LI	LIE	438
+100	Lithuania	Republic of Lithuania	Independent State			Vilnius	LT	LTU	440
+101	Luxembourg	Grand Duchy of Luxembourg	Independent State			Luxembourg	LU	LUX	442
+102	Macedonia	Republic of Macedonia	Independent State			Skopje	MK	MKD	807
+103	Madagascar	Republic of Madagascar	Independent State			Antananarivo	MG	MDG	450
+104	Malawi	Republic of Malawi	Independent State			Lilongwe	MW	MWI	454
+105	Malaysia		Independent State			Kuala Lumpur (legislative/judical) and Putrajaya (administrative)	MY	MYS	458
+106	Maldives	Republic of Maldives	Independent State			Male	MV	MDV	462
+107	Mali	Republic of Mali	Independent State			Bamako	ML	MLI	466
+108	Malta	Republic of Malta	Independent State			Valletta	MT	MLT	470
+109	Marshall Islands	Republic of the Marshall Islands	Independent State			Majuro	MH	MHL	584
+110	Mauritania	Islamic Republic of Mauritania	Independent State			Nouakchott	MR	MRT	478
+111	Mauritius	Republic of Mauritius	Independent State			Port Louis	MU	MUS	480
+112	Mexico	United Mexican States	Independent State			Mexico	MX	MEX	484
+113	Micronesia	Federated States of Micronesia	Independent State			Palikir	FM	FSM	583
+114	Moldova	Republic of Moldova	Independent State			Chisinau	MD	MDA	498
+115	Monaco	Principality of Monaco	Independent State			Monaco	MC	MCO	492
+116	Mongolia		Independent State			Ulaanbaatar	MN	MNG	496
+117	Montenegro	Republic of Montenegro	Independent State			Podgorica	ME	MNE	499
+118	Morocco	Kingdom of Morocco	Independent State			Rabat	MA	MAR	504
+119	Mozambique	Republic of Mozambique	Independent State			Maputo	MZ	MOZ	508
+120	Myanmar (Burma)	Union of Myanmar	Independent State			Naypyidaw	MM	MMR	104
+121	Namibia	Republic of Namibia	Independent State			Windhoek	NA	NAM	516
+122	Nauru	Republic of Nauru	Independent State			Yaren	NR	NRU	520
+123	Nepal		Independent State			Kathmandu	NP	NPL	524
+124	Netherlands	Kingdom of the Netherlands	Independent State			Amsterdam (administrative) and The Hague (legislative/judical)	NL	NLD	528
+125	New Zealand		Independent State			Wellington	NZ	NZL	554
+126	Nicaragua	Republic of Nicaragua	Independent State			Managua	NI	NIC	558
+127	Niger	Republic of Niger	Independent State			Niamey	NE	NER	562
+128	Nigeria	Federal Republic of Nigeria	Independent State			Abuja	NG	NGA	566
+129	Norway	Kingdom of Norway	Independent State			Oslo	NO	NOR	578
+130	Oman	Sultanate of Oman	Independent State			Muscat	OM	OMN	512
+131	Pakistan	Islamic Republic of Pakistan	Independent State			Islamabad	PK	PAK	586
+132	Palau	Republic of Palau	Independent State			Melekeok	PW	PLW	585
+133	Panama	Republic of Panama	Independent State			Panama	PA	PAN	591
+134	Papua New Guinea	Independent State of Papua New Guinea	Independent State			Port Moresby	PG	PNG	598
+135	Paraguay	Republic of Paraguay	Independent State			Asuncion	PY	PRY	600
+136	Peru	Republic of Peru	Independent State			Lima	PE	PER	604
+137	Philippines	Republic of the Philippines	Independent State			Manila	PH	PHL	608
+138	Poland	Republic of Poland	Independent State			Warsaw	PL	POL	616
+139	Portugal	Portuguese Republic	Independent State			Lisbon	PT	PRT	620
+140	Qatar	State of Qatar	Independent State			Doha	QA	QAT	634
+141	Romania		Independent State			Bucharest	RO	ROU	642
+142	Russia	Russian Federation	Independent State			Moscow	RU	RUS	643
+143	Rwanda	Republic of Rwanda	Independent State			Kigali	RW	RWA	646
+144	Saint Kitts and Nevis	Federation of Saint Kitts and Nevis	Independent State			Basseterre	KN	KNA	659
+145	Saint Lucia		Independent State			Castries	LC	LCA	662
+146	Saint Vincent and the Grenadines		Independent State			Kingstown	VC	VCT	670
+147	Samoa	Independent State of Samoa	Independent State			Apia	WS	WSM	882
+148	San Marino	Republic of San Marino	Independent State			San Marino	SM	SMR	674
+149	Sao Tome and Principe	Democratic Republic of Sao Tome and Principe	Independent State			Sao Tome	ST	STP	678
+150	Saudi Arabia	Kingdom of Saudi Arabia	Independent State			Riyadh	SA	SAU	682
+151	Senegal	Republic of Senegal	Independent State			Dakar	SN	SEN	686
+152	Serbia	Republic of Serbia	Independent State			Belgrade	RS	SRB	688
+153	Seychelles	Republic of Seychelles	Independent State			Victoria	SC	SYC	690
+154	Sierra Leone	Republic of Sierra Leone	Independent State			Freetown	SL	SLE	694
+155	Singapore	Republic of Singapore	Independent State			Singapore	SG	SGP	702
+156	Slovakia	Slovak Republic	Independent State			Bratislava	SK	SVK	703
+157	Slovenia	Republic of Slovenia	Independent State			Ljubljana	SI	SVN	705
+158	Solomon Islands		Independent State			Honiara	SB	SLB	90
+159	Somalia		Independent State			Mogadishu	SO	SOM	706
+160	South Africa	Republic of South Africa	Independent State			Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judical)	ZA	ZAF	710
+161	Spain	Kingdom of Spain	Independent State			Madrid	ES	ESP	724
+162	Sri Lanka	Democratic Socialist Republic of Sri Lanka	Independent State			Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative)	LK	LKA	144
+163	Sudan	Republic of the Sudan	Independent State			Khartoum	SD	SDN	736
+164	Suriname	Republic of Suriname	Independent State			Paramaribo	SR	SUR	740
+165	Swaziland	Kingdom of Swaziland	Independent State			Mbabane (administrative) and Lobamba (legislative)	SZ	SWZ	748
+166	Sweden	Kingdom of Sweden	Independent State			Stockholm	SE	SWE	752
+167	Switzerland	Swiss Confederation	Independent State			Bern	CH	CHE	756
+168	Syria	Syrian Arab Republic	Independent State			Damascus	SY	SYR	760
+169	Tajikistan	Republic of Tajikistan	Independent State			Dushanbe	TJ	TJK	762
+170	Tanzania	United Republic of Tanzania	Independent State			Dar es Salaam (administrative/judical) and Dodoma (legislative)	TZ	TZA	834
+171	Thailand	Kingdom of Thailand	Independent State			Bangkok	TH	THA	764
+172	Timor-Leste (East Timor)	Democratic Republic of Timor-Leste	Independent State			Dili	TL	TLS	626
+173	Togo	Togolese Republic	Independent State			Lome	TG	TGO	768
+174	Tonga	Kingdom of Tonga	Independent State			Nuku'alofa	TO	TON	776
+175	Trinidad and Tobago	Republic of Trinidad and Tobago	Independent State			Port-of-Spain	TT	TTO	780
+176	Tunisia	Tunisian Republic	Independent State			Tunis	TN	TUN	788
+177	Turkey	Republic of Turkey	Independent State			Ankara	TR	TUR	792
+178	Turkmenistan		Independent State			Ashgabat	TM	TKM	795
+179	Tuvalu		Independent State			Funafuti	TV	TUV	798
+180	Uganda	Republic of Uganda	Independent State			Kampala	UG	UGA	800
+181	Ukraine		Independent State			Kiev	UA	UKR	804
+182	United Arab Emirates	United Arab Emirates	Independent State			Abu Dhabi	AE	ARE	784
+183	United Kingdom	United Kingdom of Great Britain and Northern Ireland	Independent State			London	GB	GBR	826
+184	United States	United States of America	Independent State			Washington	US	USA	840
+185	Uruguay	Oriental Republic of Uruguay	Independent State			Montevideo	UY	URY	858
+186	Uzbekistan	Republic of Uzbekistan	Independent State			Tashkent	UZ	UZB	860
+187	Vanuatu	Republic of Vanuatu	Independent State			Port-Vila	VU	VUT	548
+188	Vatican City	State of the Vatican City	Independent State			Vatican City	VA	VAT	336
+189	Venezuela	Bolivarian Republic of Venezuela	Independent State			Caracas	VE	VEN	862
+190	Vietnam	Socialist Republic of Vietnam	Independent State			Hanoi	VN	VNM	704
+191	Yemen	Republic of Yemen	Independent State			Sanaa	YE	YEM	887
+192	Zambia	Republic of Zambia	Independent State			Lusaka	ZM	ZMB	894
+193	Zimbabwe	Republic of Zimbabwe	Independent State			Harare	ZW	ZWE	716
+194	Abkhazia	Republic of Abkhazia	Proto Independent State			Sokhumi	GE	GEO	268
+195	China, Republic of (Taiwan)	Republic of China	Proto Independent State			Taipei	TW	TWN	158
+196	Nagorno-Karabakh	Nagorno-Karabakh Republic	Proto Independent State			Stepanakert	AZ	AZE	31
+197	Northern Cyprus	Turkish Republic of Northern Cyprus	Proto Independent State			Nicosia	CY	CYP	196
+198	Pridnestrovie (Transnistria)	Pridnestrovian Moldavian Republic	Proto Independent State			Tiraspol	MD	MDA	498
+199	Somaliland	Republic of Somaliland	Proto Independent State			Hargeisa	SO	SOM	706
+200	South Ossetia	Republic of South Ossetia	Proto Independent State			Tskhinvali	GE	GEO	268
+201	Ashmore and Cartier Islands	Territory of Ashmore and Cartier Islands	Dependency	External Territory	Australia		AU	AUS	36
+202	Christmas Island	Territory of Christmas Island	Dependency	External Territory	Australia	The Settlement (Flying Fish Cove)	CX	CXR	162
+203	Cocos (Keeling) Islands	Territory of Cocos (Keeling) Islands	Dependency	External Territory	Australia	West Island	CC	CCK	166
+204	Coral Sea Islands	Coral Sea Islands Territory	Dependency	External Territory	Australia		AU	AUS	36
+205	Heard Island and McDonald Islands	Territory of Heard Island and McDonald Islands	Dependency	External Territory	Australia		HM	HMD	334
+206	Norfolk Island	Territory of Norfolk Island	Dependency	External Territory	Australia	Kingston	NF	NFK	574
+207	New Caledonia		Dependency	Sui generis Collectivity	France	Noumea	NC	NCL	540
+208	French Polynesia	Overseas Country of French Polynesia	Dependency	Overseas Collectivity	France	Papeete	PF	PYF	258
+209	Mayotte	Departmental Collectivity of Mayotte	Dependency	Overseas Collectivity	France	Mamoudzou	YT	MYT	175
+210	Saint Barthelemy	Collectivity of Saint Barthelemy	Dependency	Overseas Collectivity	France	Gustavia	GP	GLP	312
+211	Saint Martin	Collectivity of Saint Martin	Dependency	Overseas Collectivity	France	Marigot	GP	GLP	312
+212	Saint Pierre and Miquelon	Territorial Collectivity of Saint Pierre and Miquelon	Dependency	Overseas Collectivity	France	Saint-Pierre	PM	SPM	666
+213	Wallis and Futuna	Collectivity of the Wallis and Futuna Islands	Dependency	Overseas Collectivity	France	Mata'utu	WF	WLF	876
+214	French Southern and Antarctic Lands	Territory of the French Southern and Antarctic Lands	Dependency	Overseas Territory	France	Martin-de-Viviﾃｨs	TF	ATF	260
+215	Clipperton Island		Dependency	Possession	France		PF	PYF	258
+216	Bouvet Island		Dependency	Territory	Norway		BV	BVT	74
+217	Cook Islands		Dependency	Self-Governing in Free Association	New Zealand	Avarua	CK	COK	184
+218	Niue		Dependency	Self-Governing in Free Association	New Zealand	Alofi	NU	NIU	570
+219	Tokelau		Dependency	Territory	New Zealand		TK	TKL	772
+220	Guernsey	Bailiwick of Guernsey	Dependency	Crown Dependency	United Kingdom	Saint Peter Port	GG	GGY	831
+221	Isle of Man		Dependency	Crown Dependency	United Kingdom	Douglas	IM	IMN	833
+222	Jersey	Bailiwick of Jersey	Dependency	Crown Dependency	United Kingdom	Saint Helier	JE	JEY	832
+223	Anguilla		Dependency	Overseas Territory	United Kingdom	The Valley	AI	AIA	660
+224	Bermuda		Dependency	Overseas Territory	United Kingdom	Hamilton	BM	BMU	60
+225	British Indian Ocean Territory		Dependency	Overseas Territory	United Kingdom		IO	IOT	86
+226	British Sovereign Base Areas		Dependency	Overseas Territory	United Kingdom	Episkopi			
+227	British Virgin Islands		Dependency	Overseas Territory	United Kingdom	Road Town	VG	VGB	92
+228	Cayman Islands		Dependency	Overseas Territory	United Kingdom	George Town	KY	CYM	136
+229	Falkland Islands (Islas Malvinas)		Dependency	Overseas Territory	United Kingdom	Stanley	FK	FLK	238
+230	Gibraltar		Dependency	Overseas Territory	United Kingdom	Gibraltar	GI	GIB	292
+231	Montserrat		Dependency	Overseas Territory	United Kingdom	Plymouth	MS	MSR	500
+232	Pitcairn Islands		Dependency	Overseas Territory	United Kingdom	Adamstown	PN	PCN	612
+233	Saint Helena		Dependency	Overseas Territory	United Kingdom	Jamestown	SH	SHN	654
+234	South Georgia & South Sandwich Islands		Dependency	Overseas Territory	United Kingdom		GS	SGS	239
+235	Turks and Caicos Islands		Dependency	Overseas Territory	United Kingdom	Grand Turk	TC	TCA	796
+236	Northern Mariana Islands	Commonwealth of The Northern Mariana Islands	Dependency	Commonwealth	United States	Saipan	MP	MNP	580
+237	Puerto Rico	Commonwealth of Puerto Rico	Dependency	Commonwealth	United States	San Juan	PR	PRI	630
+238	American Samoa	Territory of American Samoa	Dependency	Territory	United States	Pago Pago	AS	ASM	16
+239	Baker Island		Dependency	Territory	United States		UM	UMI	581
+240	Guam	Territory of Guam	Dependency	Territory	United States	Hagatna	GU	GUM	316
+241	Howland Island		Dependency	Territory	United States		UM	UMI	581
+242	Jarvis Island		Dependency	Territory	United States		UM	UMI	581
+243	Johnston Atoll		Dependency	Territory	United States		UM	UMI	581
+244	Kingman Reef		Dependency	Territory	United States		UM	UMI	581
+245	Midway Islands		Dependency	Territory	United States		UM	UMI	581
+246	Navassa Island		Dependency	Territory	United States		UM	UMI	581
+247	Palmyra Atoll		Dependency	Territory	United States		UM	UMI	581
+248	U.S. Virgin Islands	United States Virgin Islands	Dependency	Territory	United States	Charlotte Amalie	VI	VIR	850
+249	Wake Island		Dependency	Territory	United States		UM	UMI	850
+250	Hong Kong	Hong Kong Special Administrative Region	Proto Dependency	Special Administrative Region	China		HK	HKG	344
+251	Macau	Macau Special Administrative Region	Proto Dependency	Special Administrative Region	China	Macau	MO	MAC	446
+252	Faroe Islands		Proto Dependency		Denmark	Torshavn	FO	FRO	234
+253	Greenland		Proto Dependency		Denmark	Nuuk (Godthab)	GL	GRL	304
+254	French Guiana	Overseas Region of Guiana	Proto Dependency	Overseas Region	France	Cayenne	GF	GUF	254
+255	Guadeloupe	Overseas Region of Guadeloupe	Proto Dependency	Overseas Region	France	Basse-Terre	GP	GLP	312
+256	Martinique	Overseas Region of Martinique	Proto Dependency	Overseas Region	France	Fort-de-France	MQ	MTQ	474
+257	Reunion	Overseas Region of Reunion	Proto Dependency	Overseas Region	France	Saint-Denis	RE	REU	638
+258	Aland		Proto Dependency		Finland	Mariehamn	AX	ALA	248
+259	Aruba		Proto Dependency		Netherlands	Oranjestad	AW	ABW	533
+260	Netherlands Antilles		Proto Dependency		Netherlands	Willemstad	AN	ANT	530
+261	Svalbard		Proto Dependency		Norway	Longyearbyen	SJ	SJM	744
+262	Ascension		Proto Dependency	Dependency of Saint Helena	United Kingdom	Georgetown	AC	ASC	
+263	Tristan da Cunha		Proto Dependency	Dependency of Saint Helena	United Kingdom	Edinburgh	TA	TAA	
+268	Australian Antarctic Territory		Antarctic Territory	External Territory	Australia		AQ	ATA	10
+269	Ross Dependency		Antarctic Territory	Territory	New Zealand		AQ	ATA	10
+270	Peter I Island		Antarctic Territory	Territory	Norway		AQ	ATA	10
+271	Queen Maud Land		Antarctic Territory	Territory	Norway		AQ	ATA	10
+272	British Antarctic Territory		Antarctic Territory	Overseas Territory	United Kingdom		AQ	ATA	10

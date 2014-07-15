@@ -1,0 +1,201 @@
+SortOrder	CommonName	Capital	2LetterCode	3LetterCode	NumberCode
+1	Afghanistan	Kabul	AF	AFG	4
+2	Albania	Tirana	AL	ALB	8
+3	Algeria	Algiers	DZ	DZA	12
+4	Andorra	Andorra la Vella	AD	AND	20
+5	Angola	Luanda	AO	AGO	24
+6	Antigua and Barbuda	Saint John's	AG	ATG	28
+7	Argentina	Buenos Aires	AR	ARG	32
+8	Armenia	Yerevan	AM	ARM	51
+9	Australia	Canberra	AU	AUS	36
+10	Austria	Vienna	AT	AUT	40
+11	Azerbaijan	Baku	AZ	AZE	31
+12	Bahamas, The	Nassau	BS	BHS	44
+13	Bahrain	Manama	BH	BHR	48
+14	Bangladesh	Dhaka	BD	BGD	50
+15	Barbados	Bridgetown	BB	BRB	52
+16	Belarus	Minsk	BY	BLR	112
+17	Belgium	Brussels	BE	BEL	56
+18	Belize	Belmopan	BZ	BLZ	84
+19	Benin	Porto-Novo	BJ	BEN	204
+20	Bhutan	Thimphu	BT	BTN	64
+21	Bolivia	La Paz (administrative/legislative) and Sucre (judical)	BO	BOL	68
+22	Bosnia and Herzegovina	Sarajevo	BA	BIH	70
+23	Botswana	Gaborone	BW	BWA	72
+24	Brazil	Brasilia	BR	BRA	76
+25	Brunei	Bandar Seri Begawan	BN	BRN	96
+26	Bulgaria	Sofia	BG	BGR	100
+27	Burkina Faso	Ouagadougou	BF	BFA	854
+28	Burundi	Bujumbura	BI	BDI	108
+29	Cambodia	Phnom Penh	KH	KHM	116
+30	Cameroon	Yaounde	CM	CMR	120
+31	Canada	Ottawa	CA	CAN	124
+32	Cape Verde	Praia	CV	CPV	132
+33	Central African Republic	Bangui	CF	CAF	140
+34	Chad	N'Djamena	TD	TCD	148
+35	Chile	Santiago (administrative/judical) and Valparaiso (legislative)	CL	CHL	152
+36	China, People's Republic of	Beijing	CN	CHN	156
+37	Colombia	Bogota	CO	COL	170
+38	Comoros	Moroni	KM	COM	174
+39	Congo, (Congo Kinshasa)	Kinshasa	CD	COD	180
+40	Congo, (Congo Brazzaville)	Brazzaville	CG	COG	178
+41	Costa Rica	San Jose	CR	CRI	188
+42	Cote d'Ivoire (Ivory Coast)	Yamoussoukro	CI	CIV	384
+43	Croatia	Zagreb	HR	HRV	191
+44	Cuba	Havana	CU	CUB	192
+45	Cyprus	Nicosia	CY	CYP	196
+46	Czech Republic	Prague	CZ	CZE	203
+47	Denmark	Copenhagen	DK	DNK	208
+48	Djibouti	Djibouti	DJ	DJI	262
+49	Dominica	Roseau	DM	DMA	212
+50	Dominican Republic	Santo Domingo	DO	DOM	214
+51	Ecuador	Quito	EC	ECU	218
+52	Egypt	Cairo	EG	EGY	818
+53	El Salvador	San Salvador	SV	SLV	222
+54	Equatorial Guinea	Malabo	GQ	GNQ	226
+55	Eritrea	Asmara	ER	ERI	232
+56	Estonia	Tallinn	EE	EST	233
+57	Ethiopia	Addis Ababa	ET	ETH	231
+58	Fiji	Suva	FJ	FJI	242
+59	Finland	Helsinki	FI	FIN	246
+60	France	Paris	FR	FRA	250
+61	Gabon	Libreville	GA	GAB	266
+62	Gambia, The	Banjul	GM	GMB	270
+63	Georgia	Tbilisi	GE	GEO	268
+64	Germany	Berlin	DE	DEU	276
+65	Ghana	Accra	GH	GHA	288
+66	Greece	Athens	GR	GRC	300
+67	Grenada	Saint George's	GD	GRD	308
+68	Guatemala	Guatemala	GT	GTM	320
+69	Guinea	Conakry	GN	GIN	324
+70	Guinea-Bissau	Bissau	GW	GNB	624
+71	Guyana	Georgetown	GY	GUY	328
+72	Haiti	Port-au-Prince	HT	HTI	332
+73	Honduras	Tegucigalpa	HN	HND	340
+74	Hungary	Budapest	HU	HUN	348
+75	Iceland	Reykjavik	IS	ISL	352
+76	India	New Delhi	IN	IND	356
+77	Indonesia	Jakarta	ID	IDN	360
+78	Iran	Tehran	IR	IRN	364
+79	Iraq	Baghdad	IQ	IRQ	368
+80	Ireland	Dublin	IE	IRL	372
+81	Israel	Jerusalem	IL	ISR	376
+82	Italy	Rome	IT	ITA	380
+83	Jamaica	Kingston	JM	JAM	388
+84	Japan	Tokyo	JP	JPN	392
+85	Jordan	Amman	JO	JOR	400
+86	Kazakhstan	Astana	KZ	KAZ	398
+87	Kenya	Nairobi	KE	KEN	404
+88	Kiribati	Tarawa	KI	KIR	296
+89	Korea, North	Pyongyang	KP	PRK	408
+90	Korea, South	Seoul	KR	KOR	410
+91	Kuwait	Kuwait	KW	KWT	414
+92	Kyrgyzstan	Bishkek	KG	KGZ	417
+93	Laos	Vientiane	LA	LAO	418
+94	Latvia	Riga	LV	LVA	428
+95	Lebanon	Beirut	LB	LBN	422
+96	Lesotho	Maseru	LS	LSO	426
+97	Liberia	Monrovia	LR	LBR	430
+98	Libya	Tripoli	LY	LBY	434
+99	Liechtenstein	Vaduz	LI	LIE	438
+100	Lithuania	Vilnius	LT	LTU	440
+101	Luxembourg	Luxembourg	LU	LUX	442
+102	Macedonia	Skopje	MK	MKD	807
+103	Madagascar	Antananarivo	MG	MDG	450
+104	Malawi	Lilongwe	MW	MWI	454
+105	Malaysia	Kuala Lumpur (legislative/judical) and Putrajaya (administrative)	MY	MYS	458
+106	Maldives	Male	MV	MDV	462
+107	Mali	Bamako	ML	MLI	466
+108	Malta	Valletta	MT	MLT	470
+109	Marshall Islands	Majuro	MH	MHL	584
+110	Mauritania	Nouakchott	MR	MRT	478
+111	Mauritius	Port Louis	MU	MUS	480
+112	Mexico	Mexico	MX	MEX	484
+113	Micronesia	Palikir	FM	FSM	583
+114	Moldova	Chisinau	MD	MDA	498
+115	Monaco	Monaco	MC	MCO	492
+116	Mongolia	Ulaanbaatar	MN	MNG	496
+117	Montenegro	Podgorica	ME	MNE	499
+118	Morocco	Rabat	MA	MAR	504
+119	Mozambique	Maputo	MZ	MOZ	508
+120	Myanmar (Burma)	Naypyidaw	MM	MMR	104
+121	Namibia	Windhoek	NA	NAM	516
+122	Nauru	Yaren	NR	NRU	520
+123	Nepal	Kathmandu	NP	NPL	524
+124	Netherlands	Amsterdam (administrative) and The Hague (legislative/judical)	NL	NLD	528
+125	New Zealand	Wellington	NZ	NZL	554
+126	Nicaragua	Managua	NI	NIC	558
+127	Niger	Niamey	NE	NER	562
+128	Nigeria	Abuja	NG	NGA	566
+129	Norway	Oslo	NO	NOR	578
+130	Oman	Muscat	OM	OMN	512
+131	Pakistan	Islamabad	PK	PAK	586
+132	Palau	Melekeok	PW	PLW	585
+133	Panama	Panama	PA	PAN	591
+134	Papua New Guinea	Port Moresby	PG	PNG	598
+135	Paraguay	Asuncion	PY	PRY	600
+136	Peru	Lima	PE	PER	604
+137	Philippines	Manila	PH	PHL	608
+138	Poland	Warsaw	PL	POL	616
+139	Portugal	Lisbon	PT	PRT	620
+140	Qatar	Doha	QA	QAT	634
+141	Romania	Bucharest	RO	ROU	642
+142	Russia	Moscow	RU	RUS	643
+143	Rwanda	Kigali	RW	RWA	646
+144	Saint Kitts and Nevis	Basseterre	KN	KNA	659
+145	Saint Lucia	Castries	LC	LCA	662
+146	Saint Vincent and the Grenadines	Kingstown	VC	VCT	670
+147	Samoa	Apia	WS	WSM	882
+148	San Marino	San Marino	SM	SMR	674
+149	Sao Tome and Principe	Sao Tome	ST	STP	678
+150	Saudi Arabia	Riyadh	SA	SAU	682
+151	Senegal	Dakar	SN	SEN	686
+152	Serbia	Belgrade	RS	SRB	688
+153	Seychelles	Victoria	SC	SYC	690
+154	Sierra Leone	Freetown	SL	SLE	694
+155	Singapore	Singapore	SG	SGP	702
+156	Slovakia	Bratislava	SK	SVK	703
+157	Slovenia	Ljubljana	SI	SVN	705
+158	Solomon Islands	Honiara	SB	SLB	90
+159	Somalia	Mogadishu	SO	SOM	706
+160	South Africa	Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judical)	ZA	ZAF	710
+161	Spain	Madrid	ES	ESP	724
+162	Sri Lanka	Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative)	LK	LKA	144
+163	Sudan	Khartoum	SD	SDN	736
+164	Suriname	Paramaribo	SR	SUR	740
+165	Swaziland	Mbabane (administrative) and Lobamba (legislative)	SZ	SWZ	748
+166	Sweden	Stockholm	SE	SWE	752
+167	Switzerland	Bern	CH	CHE	756
+168	Syria	Damascus	SY	SYR	760
+169	Tajikistan	Dushanbe	TJ	TJK	762
+170	Tanzania	Dar es Salaam (administrative/judical) and Dodoma (legislative)	TZ	TZA	834
+171	Thailand	Bangkok	TH	THA	764
+172	Timor-Leste (East Timor)	Dili	TL	TLS	626
+173	Togo	Lome	TG	TGO	768
+174	Tonga	Nuku'alofa	TO	TON	776
+175	Trinidad and Tobago	Port-of-Spain	TT	TTO	780
+176	Tunisia	Tunis	TN	TUN	788
+177	Turkey	Ankara	TR	TUR	792
+178	Turkmenistan	Ashgabat	TM	TKM	795
+179	Tuvalu	Funafuti	TV	TUV	798
+180	Uganda	Kampala	UG	UGA	800
+181	Ukraine	Kiev	UA	UKR	804
+182	United Arab Emirates	Abu Dhabi	AE	ARE	784
+183	United Kingdom	London	GB	GBR	826
+184	United States	Washington	US	USA	840
+185	Uruguay	Montevideo	UY	URY	858
+186	Uzbekistan	Tashkent	UZ	UZB	860
+187	Vanuatu	Port-Vila	VU	VUT	548
+188	Vatican City	Vatican City	VA	VAT	336
+189	Venezuela	Caracas	VE	VEN	862
+190	Vietnam	Hanoi	VN	VNM	704
+191	Yemen	Sanaa	YE	YEM	887
+192	Zambia	Lusaka	ZM	ZMB	894
+193	Zimbabwe	Harare	ZW	ZWE	716
+194	Abkhazia	Sokhumi	GE	GEO	268
+195	China, Republic of (Taiwan)	Taipei	TW	TWN	158
+196	Nagorno-Karabakh	Stepanakert	AZ	AZE	31
+197	Northern Cyprus	Nicosia	CY	CYP	196
+198	Pridnestrovie (Transnistria)	Tiraspol	MD	MDA	498
+199	Somaliland	Hargeisa	SO	SOM	706
+200	South Ossetia	Tskhinvali	GE	GEO	268
